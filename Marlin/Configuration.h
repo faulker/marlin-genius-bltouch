@@ -969,7 +969,7 @@
  *
  * Specify a Probe position as { X, Y, Z }
  */
-#define NOZZLE_TO_PROBE_OFFSET { 32.66, -37, -2.95 }
+#define NOZZLE_TO_PROBE_OFFSET { 31.82, -37.77, -3.25 }
 
 
 // Most probes should stay away from the edges of the bed, but
